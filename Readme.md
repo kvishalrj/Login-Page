@@ -10,7 +10,7 @@
  #### I got the basic understanding of HTML Tags and Core CSS Concepts & the content of the webpage is in center hence its resposive 
    
 
-[Click here to view live 🚀](https://kvishalrj.github.io/Loginpage/ "Street Style Landing Page")
+[Click here to view live 🚀](https://vk-loginpage.netlify.app/)
 
 ## Screenshot of the Project 👇
 ![](./screenshot/kvishalrj.github.io_Loginpage_(Mera%20PC).png)
